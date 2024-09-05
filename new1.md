@@ -1,4 +1,4 @@
-##**DNA Sequencing: Unraveling the Code of Life**
+## **DNA Sequencing: Unraveling the Code of Life**
 
 DNA sequencing has emerged as a cornerstone technology in molecular biology, providing the means to decode the genetic blueprint of all living organisms. Since its inception in the 1970s, advancements in sequencing technologies have revolutionized fields ranging from medicine and agriculture to evolutionary biology and forensic science. This article delves into the history, technologies, applications, challenges, and future directions of DNA sequencing, illustrating its pivotal role in shaping modern science and medicine.
 
