@@ -1,4 +1,4 @@
-### DNA Sequencing: A Revolution in Genomic Science
+## DNA Sequencing: A Revolution in Genomic Science
 
 **Introduction**
 
